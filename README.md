@@ -36,4 +36,4 @@ A team management project focused on collaboration and task organization.
 
 ## Connect With Me
 
-[LinkedIn](www.linkedin.com/in/ranjith-rajagopalan-a53b8829a)
+[LinkedIn](https://www.linkedin.com/in/ranjith-rajagopalan-a53b8829a)
